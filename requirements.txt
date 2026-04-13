@@ -2,4 +2,5 @@ python-telegram-bot==20.7
 supabase==2.3.4
 openpyxl==3.1.2
 python-dotenv==1.0.0
-httpx==0.26.0
+httpx==0.25.2
+anyio==3.7.1
