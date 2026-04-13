@@ -23,7 +23,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # ── Config ──
-BOT_TOKEN     = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN     = os.environ.get("BOT_TOKEN", "8522649443:AAErAdlER36lmtF-f5KQngS_S9PI_4v7f54")
 SUPABASE_URL  = os.environ.get("SUPABASE_URL", "https://zykqqqtjedsvegtvrapz.supabase.co")
 SUPABASE_KEY  = os.environ.get("SUPABASE_KEY", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inp5a3FxcXRqZWRzdmVndHZyYXB6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYwNjMxNTksImV4cCI6MjA5MTYzOTE1OX0.h93e9I9jN3iPlqSl1lVyfvLYbzpY_NeJsEWk26tLOZs")
 
